@@ -66,9 +66,9 @@ $(document).ready(function(){
 <footer>
 <div id="copyright">
 <p>Усі права захищені. © 2016</p>
-
+</div> 
 </footer> 
-</div>   
+  
 </body>
 
 </html>
